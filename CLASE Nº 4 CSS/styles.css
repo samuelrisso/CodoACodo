@@ -1,0 +1,22 @@
+nav{
+    background-color:lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: right;
+    
+}
+footer{
+    background-color:lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.imagenHTML{
+    margin-left: 35px;
+}
+section{
+    display: block;
+    text-align: justify;
+
+    margin: 2em 20em;
+}
